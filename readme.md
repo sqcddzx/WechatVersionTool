@@ -5,7 +5,9 @@
 
 ### 界面
 
-[![photo](./image/example.png)](./image/example.png)
+<a>
+  <img src="image/example.png" alt="photo" width="500">
+</a>
 
 
 ### 说明
@@ -16,3 +18,9 @@
 5. 注意！！！ 修改版本后，第一次扫码后取消登录，
 第二次扫码再确认登录  
 （或者扫码2次都确认登录也可，第一次还是会提示版本低，第二次就能登上）  
+
+### 支持
+如果工具对您有帮助，请给个⭐或请我喝杯咖啡吧~  
+<a>
+  <img src="image/reward.png" alt="photo" width="200">
+</a>
